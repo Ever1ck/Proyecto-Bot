@@ -20,7 +20,7 @@ module.exports = {
         }
         var opts = {
             maxResults: 1, //Maximo de resultados a encontrar
-            key: 'AIzaSyBHkOoOvRQ6C5TG42ySPLzJKOoYLXmttu0', //Necesitas una CLAVE de la API de youtube.
+            key: 'YT_API_KEY', //Necesitas una CLAVE de la API de youtube.
             type: "video" // Que tipo de resultado a obtener.
         };
         const songArg = await search(args.join(' '), opts);
