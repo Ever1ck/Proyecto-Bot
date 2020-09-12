@@ -19,7 +19,7 @@
     "megadb": "^3.0.0",
     "moment": "^2.25.3",
     "moment-duration-format": "^2.3.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "node-opus": "^0.3.3",
     "node-superfetch": "^0.1.10",
     "novelcovid": "^1.2.7",
