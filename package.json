@@ -15,7 +15,7 @@
     "ffmpeg": "0.0.4",
     "ffmpeg-static": "^4.1.1",
     "genius-lyrics": "^2.0.0",
-    "i": "^0.3.6",
+    "i": "^0.3.7",
     "megadb": "^3.0.0",
     "moment": "^2.25.3",
     "moment-duration-format": "^2.3.2",
